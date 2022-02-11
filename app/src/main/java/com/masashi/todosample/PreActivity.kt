@@ -8,6 +8,10 @@ import android.text.Editable
 import android.util.Log
 import com.masashi.todosample.databinding.ActivityPreBinding
 
+/**
+ * Created by Masashi Hamaguchi on 2022/01/29.
+ */
+
 class PreActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityPreBinding
